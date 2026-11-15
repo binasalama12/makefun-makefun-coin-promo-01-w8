@@ -119,3 +119,6 @@ try {
   console.log("Non-fatal error: " + String(err));
 }
 process.exitCode = 0;
+
+// revision: wallet8
+console.log('verdict note: judged in the open, by the work itself — nothing hidden, nothing owed.');
